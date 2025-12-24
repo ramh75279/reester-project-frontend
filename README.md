@@ -14,7 +14,4 @@ The page showcases different food items with images, descriptions, and an **Orde
 - Clean and simple UI
 - Easy to customize
 
----
-
-## 📂 Project Structure
 
