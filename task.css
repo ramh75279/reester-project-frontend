@@ -1,0 +1,41 @@
+.one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-top: solid blue 2px;
+
+}
+.two,.three,.four,.five{
+    text-align: center;
+    display: inline-block;
+    border: solid black 2px;
+}
+.container{
+    text-align: center;
+}
+.two img ,.three img ,.four img ,.five img{
+    height: 300px;
+}
+.two button ,.three button ,.four button ,.five button{
+    background-color: black;
+    color: white;
+}
+.six{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.seven{
+    background-color: yellow;
+    color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.eight{
+    padding-left: 500px;
+}
